@@ -1,0 +1,22 @@
+/* element selectors by parent */
+body {
+  margin: 0;
+}
+
+/* class in alpha order */
+.bgc-lightgray {
+  background-color: lightgray;
+}
+.bgc-royalblue {
+  background-color: royalblue;
+}
+.bgc-steelblue {
+  background-color: steelblue;
+}
+
+.p {
+  padding: 1.5rem;
+}
+.w-100 {
+  width: 100%;
+}

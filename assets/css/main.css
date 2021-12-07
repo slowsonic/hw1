@@ -28,6 +28,15 @@ a {
 .d-f {
   display: flex;
 }
+.ff-impact {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.fw-700 {
+  font-weight: 700;
+}
+.fz-2 {
+  font-size: 2rem;
+}
 .jc-sb {
   justify-content: space-between;
 }
@@ -48,15 +57,6 @@ a {
 }
 .p {
   padding: 1.5rem;
-}
-.ff-impact {
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-}
-.fw-700 {
-  font-weight: 700;
-}
-.fz-2 {
-  font-size: 2rem;
 }
 .w-100 {
   width: 100%;
